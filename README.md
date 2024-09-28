@@ -2,7 +2,7 @@ _👋 Hi, I’m @jawahar-sr
 <br>
 🧑🏽‍💻 I'm a Software Development Engineer
 <br>
-📫 Currently working as SDE2@COMCAST INDIA ENGINEERING CENTER_
+📫 Working as SDE2@COMCAST INDIA ENGINEERING CENTER_
 <br>
 <br>
 <div align="center">
